@@ -1,0 +1,8 @@
+https://es.stackoverflow.com/questions/166937/error-al-cargar-imagen-con-dropzone-js-en-laravel
+
+
+https://hdtuto.com/article/laravel-55-multiple-images-uploading-using-dropzone-js
+
+http://www.forosdelweb.com/f13/numero-imagenes-input-tipo-file-1137249/
+
+http://www.maestrosdelweb.com/diez-funciones-imprescindibles-en-javascript/
